@@ -162,3 +162,4 @@ cython_debug/
 .idea/
 
 .python-version
+/notebooks/3_modelado/3.2_modelos_de_arboles/csv/
